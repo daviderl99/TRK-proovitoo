@@ -18,3 +18,11 @@ ALTER TABLE `user`
   ADD PRIMARY KEY (`id`),
   ADD UNIQUE KEY `username` (`username`);
 ```
+# Approximate time needed for tasks
+| Task          | Time         |
+| ------------- |:------------:|
+| Setting up DB | 1 hour       |
+| Styling       | 1.5 hours    |
+| PHP           | 6 hours      |
+| JS/AJAX       | 4.5 hours    |
+| **TOTAL**     | ~13 hours    |
