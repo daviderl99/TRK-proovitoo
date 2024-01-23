@@ -7,9 +7,7 @@ Made using phpMyAdmin
 CREATE DATABASE IF NOT EXISTS `users`;
 ```
 ```sh
-USE `users`;
-```
-```sh
+USE users;
 CREATE TABLE IF NOT EXISTS `user` (
   `id` int(11) NOT NULL,
   `username` varchar(20) NOT NULL
