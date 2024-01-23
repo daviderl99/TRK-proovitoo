@@ -1,6 +1,8 @@
 # TKR proovitöö
 
 # MySQL Database Setup
+Made using phpMyAdmin
+
 ```sh
 CREATE DATABASE IF NOT EXISTS `users`;
 ```
